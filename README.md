@@ -1,16 +1,22 @@
-## Hi there 👋
+## What's up! 👾
 
-<!--
-**missingno22/missingno22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aiden, an Embedded Systems Engineer and software developer from The United States \
 
-Here are some ideas to get you started:
+I create systems using my favorite microcontroller ESP32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also develop in Java and Python to create small tools for myself
+
+I also restore retro consoles. My favorite in the Original Xbox!
+
+---
+
+## Tools
+- **Languages:** Python, Java, C++, Javascript, Matlab, Verilog, KiCad, LTspice, Git (obviously)
+- **Creative Tools:** Blender, Adobe After Effects
+- **Physical:** Digital Multimeter, Logic Analyzer, Oscilloscope, Soldering
+
+---
+## Facts
+- I love dogs
+- I want to travel the world
+- I want to make the world a better place
