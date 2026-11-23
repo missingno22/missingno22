@@ -1,6 +1,6 @@
 ## What's up! 👾
 
-I'm Aiden, an Embedded Systems Engineer and software developer from The United States \
+I'm Aiden, an Embedded Systems Engineer and software developer from The United States
 
 I create systems using my favorite microcontroller ESP32
 
